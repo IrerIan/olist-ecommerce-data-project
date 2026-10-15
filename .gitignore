@@ -1,0 +1,17 @@
+# Data (large + dataset licence: to be downloaded from Kaggle themselves)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
